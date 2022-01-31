@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWeekSampleWebApi", "FirstWeekSampleWebApi\FirstWeekSampleWebApi.csproj", "{567B8EA0-5111-4B0E-9CC7-8672C2D4FD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567B8EA0-5111-4B0E-9CC7-8672C2D4FD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567B8EA0-5111-4B0E-9CC7-8672C2D4FD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567B8EA0-5111-4B0E-9CC7-8672C2D4FD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567B8EA0-5111-4B0E-9CC7-8672C2D4FD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7696B5B-09F1-41AE-B946-586F899A1917}
+	EndGlobalSection
+EndGlobal
